@@ -126,7 +126,7 @@
   .light-grey-area {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: 1fr 2fr;
+    grid-template-rows: 300px 379px;
   }
 
   .container__hero {
